@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="app_background">#FFF3F6FA</color>
+    <color name="output_text">#FF1E2A38</color>
+    <color name="logo_circle">#FF3F7CC4</color>
+    <color name="btn_math">#FF2E8B00</color>
+    <color name="btn_reset">#FFE8114F</color>
+    <color name="btn_step">#FF00C455</color>
+</resources>
